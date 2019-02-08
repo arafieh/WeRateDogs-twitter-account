@@ -1,5 +1,5 @@
 # Analyzing the tweet archive of Twitter user @dog_rates
-#### a simple project of scrapping @WeRateDogs twitter account and wrangling data
+### Wrangling and analyzing data of @WeRateDogs twitter account including scrappig twitter account
 
 ## Project Overview
 
