@@ -20,10 +20,9 @@ All steps in order preparing dataset describe in a pdf file named: wrangle_repor
 
 For every successful twitter account, number of “likes” and “retweet” are vital measures. WeRateDogs has started 2015 and at the late 2015, both "likes" and "retweet" were similar together but after that time "retweet" counts has increased very smoothly and even can say at Jan 2017 reaches to a relatively steady situation, meanwhile “like” counts after Nov 2016 was a skyrocket date to increase sharply and continue this trend. So, hardworking, keep frequently posting and be diligent is the most important secret for social network business model to reach to exponential growth in followers. On other hand the difference between these two measures can be notice from active social media followers perspective, the followers who have active twitter accounts and prefer to share interesting tweets with their followers, and the rest of followers who are less professional users of twitters and just make “like” some tweets.
 
-Tweets during time from 6 a.m. to 1 p.m. have biggest chance for more like and retweet.
+Here is summary of findings:
 
-Puppo is the most favorite of customized various stages of dogs (stages: doggo, pupper, puppo, and floof(er))
-
-Bedlington Terrier and Afghan Hound breeds, respectively, have most like and retweet.
-
-A report of findings can be find in a pdf file named: act_report.
+- Tweets during time from 6 a.m. to 1 p.m. have biggest chance for more like and retweet.
+- Puppo is the most favorite of customized various stages of dogs (stages: doggo, pupper, puppo, and floof(er))
+- Bedlington Terrier and Afghan Hound breeds, respectively, have most like and retweet.
+- A report of findings can be find in a pdf file named: act_report.
